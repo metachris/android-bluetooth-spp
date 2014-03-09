@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.BluetoothChat;
+package at.metalab.android.BluetoothChat;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -39,6 +39,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+import at.metalab.android.BluetoothChat.R;
 
 /**
  * This is the main Activity that displays the current chat session.

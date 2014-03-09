@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.BluetoothChat;
+package at.metalab.android.BluetoothChat;
 
 import java.util.Set;
 
@@ -36,6 +36,7 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
+import at.metalab.android.BluetoothChat.R;
 
 /**
  * This Activity appears as a dialog. It lists any paired devices and

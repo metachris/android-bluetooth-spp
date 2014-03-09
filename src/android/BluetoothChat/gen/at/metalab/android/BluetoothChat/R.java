@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.android.BluetoothChat;
+package at.metalab.android.BluetoothChat;
 
 public final class R {
     public static final class attr {
